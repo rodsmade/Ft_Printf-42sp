@@ -61,3 +61,8 @@ int main(void)
 Hello world!!
 
 ```
+
+## Final note
+If you're a 42 student struggling to understand this project, I got your back! Please refer to this Notion page that I wrote covering the general concepts related to this project and a practical to-do list of tasks to get you gonig! It's in Portuguese :cactus:
+
+> [Acelera — Printf](https://rodsmade.notion.site/Acelera-Printf-9b57272e356c45968455fe31b47952fc)
